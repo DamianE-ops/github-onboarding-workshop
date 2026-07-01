@@ -59,6 +59,3 @@ Focused on setting up GitHub and completing the onboarding activities required f
 
 *Submitted by: Tomilola Osukoya*.
 
-
-
-*Submitted by: Tomilola Osukoya · [Your GitHub Username]*
