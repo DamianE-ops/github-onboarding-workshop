@@ -1068,8 +1068,12 @@ function cleanName(filename, folderName) {
 
 function isSubmission(filename) {
   const n = filename.toLowerCase();
+  // Skip README
   if (n === 'readme.md') return false;
-  if (n.includes('yourname-template')) return false;
+  // Skip only the exact blank template file (ends with "yourname-template.md")
+  // Mentee files like "topic-john-doe-template.md" ARE valid submissions
+  if (n.endsWith('yourname-template.md')) return false;
+  // Must be a markdown file
   if (!n.endsWith('.md')) return false;
   return true;
 }
