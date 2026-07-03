@@ -1,18 +1,11 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — Emmanuella Madusonde
 
 ---
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
-
+I refreshed my knowledge on using GitHub in terms of repository creation, forking, uploading and editing files, and general GitHub navigation
 -
 -
 -
@@ -21,23 +14,22 @@
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+<!-- Describe what you did in the lab. Include steps, commands, or screenshot descriptions -->
 
 ### What I did
-
+I already had an account on Git hub, so I just had to fork the repository and get access to the file to work on this submission
 
 ### What happened / Result
-
+I was successfully able to access the file and the entire Microsoft Naija Security user group repository
 
 ### Challenges I faced
-
-
+I did not face any challenges because I am fairly familiar with GitHub and used the onboarding webinar as a guide.
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+What was most important to me was that I was able to get a refresher on how easy GitHub makes collaboration and documentation of your progress or any project you are currently working on
 
 ---
 
@@ -45,7 +37,7 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+- I don't have any because the instructor, Emmanuel, was very precise in his walkthrough, and having the recording also helped clear any challenge.
 -
 
 ---
@@ -58,4 +50,5 @@
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Emmanuella Madusonde · Generixx-inc
+]*
