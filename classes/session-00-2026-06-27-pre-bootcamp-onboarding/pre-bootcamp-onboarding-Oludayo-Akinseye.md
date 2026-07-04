@@ -1,4 +1,4 @@
-# My Notes — [AJEKUNLE RUKAYAT]
+# My Notes — Oludayo Akinseye
 
 
 ---
@@ -8,11 +8,9 @@
 <!-- Write the main ideas covered in today's session -->
 
 -Bootcamp curricullum
-how to study ,share and support one another
 how to create Github
 how to collaborate on Github
-hobbies that constantly produce strong candidate
-how to fork a repository
+
 -
 -
 
@@ -24,7 +22,7 @@ how to fork a repository
 
 ### What I did
 
-I created my Github account
+I forked the Github
 downloaded the class files
 saved the file in a folder on my computer
 imported the save file back to make changes
@@ -40,9 +38,7 @@ I tried opening the repository without forking it first and it failed
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-i learnt how to create a Github account 
-i learnt how to download a file
-i learnt how to fork a repository
+i learnt how to collaborate on Github
 
 ---
 
@@ -63,4 +59,4 @@ i learnt how to fork a repository
 
 ---
 
-*Submitted by: [AJEKUNLE RUKAYAT] · [Rukayat1211]*
+*Submitted by: Oludayo Akinseye· [OludayoAkins]*
